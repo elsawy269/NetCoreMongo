@@ -1,0 +1,11 @@
+C:\Users\m.elsawy\source\repos\NetCoreMongoDB\NetCoreMongoDB\bin\Debug\netcoreapp2.0\NetCoreMongoDB.deps.json
+C:\Users\m.elsawy\source\repos\NetCoreMongoDB\NetCoreMongoDB\bin\Debug\netcoreapp2.0\NetCoreMongoDB.runtimeconfig.json
+C:\Users\m.elsawy\source\repos\NetCoreMongoDB\NetCoreMongoDB\bin\Debug\netcoreapp2.0\NetCoreMongoDB.runtimeconfig.dev.json
+C:\Users\m.elsawy\source\repos\NetCoreMongoDB\NetCoreMongoDB\bin\Debug\netcoreapp2.0\NetCoreMongoDB.dll
+C:\Users\m.elsawy\source\repos\NetCoreMongoDB\NetCoreMongoDB\obj\Debug\netcoreapp2.0\NetCoreMongoDB.csprojAssemblyReference.cache
+C:\Users\m.elsawy\source\repos\NetCoreMongoDB\NetCoreMongoDB\obj\Debug\netcoreapp2.0\NetCoreMongoDB.csproj.CoreCompileInputs.cache
+C:\Users\m.elsawy\source\repos\NetCoreMongoDB\NetCoreMongoDB\obj\Debug\netcoreapp2.0\NetCoreMongoDB.AssemblyInfoInputs.cache
+C:\Users\m.elsawy\source\repos\NetCoreMongoDB\NetCoreMongoDB\obj\Debug\netcoreapp2.0\NetCoreMongoDB.AssemblyInfo.cs
+C:\Users\m.elsawy\source\repos\NetCoreMongoDB\NetCoreMongoDB\bin\Debug\netcoreapp2.0\NetCoreMongoDB.pdb
+C:\Users\m.elsawy\source\repos\NetCoreMongoDB\NetCoreMongoDB\obj\Debug\netcoreapp2.0\NetCoreMongoDB.dll
+C:\Users\m.elsawy\source\repos\NetCoreMongoDB\NetCoreMongoDB\obj\Debug\netcoreapp2.0\NetCoreMongoDB.pdb
